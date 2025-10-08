@@ -13,4 +13,4 @@
 
 ## Partner's Contribution
 - Victoria Bieganska
-• Stuff
+- Extra Stuff
